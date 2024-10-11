@@ -1,8 +1,8 @@
-# NoSQL Challenge
+# MongoDB Data Analysis
 
 ## Overview
 
-This project is part of the NoSQL Challenge, which involves working with MongoDB to perform various data manipulations and analyses. The project demonstrates how to import data into MongoDB, perform exploratory data analysis, and execute aggregation pipelines using PyMongo and Pandas.
+This project uses MongoDB for data manipulation and analysis. It involves importing data, conducting exploratory analysis, and using aggregation pipelines to extract insights. Leveraging PyMongo and Pandas, this project showcases the capabilities of NoSQL databases for handling complex queries and operations.
 
 ## Table of Contents
 
